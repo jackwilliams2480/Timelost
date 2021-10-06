@@ -1,0 +1,12 @@
+---
+:id: 31075756
+:submitters:
+- :name: Jack Williams
+  :email: jbwilliams@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-03 04:55:41.497344000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-02 20:55:41.497344000 Z
+:status: processed
+:score: 97.5
