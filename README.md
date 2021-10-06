@@ -14,4 +14,4 @@ I created and dynamically allocated memory for the following structures: Room, u
 
 For the main game mechanic, entering commands, I created a parse_command() method in order to accept commands on one line of code, and also prevents you from  accidentally entering a wrong command. In the parse_command() method, I can handel the "inventory", "take", "look", "go", "drop", "exit", and a secret command called "hezen_corrective". This was passed as a required list of keywords, and then using that list I check the passed in command if its valid, then proceed accordingly. In this method I also make sure to move the player accordingly, even in terms of the event room and also have a case for when you run out of rooms. I have implemented 2 omens, more than two items which you need for one of the possible win conditions, and also 2 event rooms. My player has an inventory and can drop and take items. The main idea comes from the mechanics of the original game. 
 
-Link to video [demo](https:https://youtu.be/dO2io4h03Bg)
+Link to video [demo](https://www.youtube.com/watch?v=dO2io4h03Bg)
